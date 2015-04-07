@@ -1,2 +1,6 @@
 Udacity.com Learn Git and Github
 Lesson 3 Reflections file
+
+When would you want to use a remote repository rather than keeping all your work local?
+To upload my code to create a backup
+To share my code with other contributors on the project
