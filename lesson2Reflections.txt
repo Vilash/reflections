@@ -9,3 +9,20 @@ How is the staging area different from the working directory and the repository?
 What value do you think if offers?
 SA contain only added files WD all the files
 We can make commits based on similarities of logic.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans: Help me seperate production code from the experimental code or from erroneous code
+
+
+How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure?
+The diagrams help to understand the structure of the branches.
+Thus it helps us to understand the development architecture or the project setup
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Ans To add the changes on the file by different type of works.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging might make unwanted changes to the file
+Manual is tedious 
