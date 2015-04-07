@@ -1,0 +1,15 @@
+Udacity.com Learn Git and Github
+Lesson 3 Reflections file
+
+When would you want to use a remote repository rather than keeping all your work local?
+To upload my code to create a backup
+To share my code with other contributors on the project
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Manually I have the liberty of pulling or pushing the update after they are complete
+Whereas If done automatically I would pull unfinished work.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks: copy someone's repo to your github repo
+Clone: copy from github to local
+branches: labelling a sequence of commits.
